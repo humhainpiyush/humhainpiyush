@@ -52,7 +52,7 @@
 <details>
   <summary><h3>📊 Github Stats</h3></summary>
 
-  <p align="center" >
+  <p align="left" >
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=humhainpiyush&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true&hide=jupyter%20notebook" alt="humhainpiyush" height=150>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=humhainpiyush&theme=transparent&hide_border=true" alt="humhainpiyush" height=150>
     <img src="https://github-readme-stats.vercel.app/api?username=humhainpiyush&rank_icon=percentile&theme=transparent&hide_border=true&include_all_commits=true" alt="humhainpiyush" height=150>
