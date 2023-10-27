@@ -17,7 +17,7 @@
   <a href="mailto:piyushranjan2807@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></a>&nbsp;&nbsp;&nbsp;
 </p>
 
-<details>
+<details open>
 <summary><h3>☕️ Java Projects</h3></summary>
 
 | Project Name                    | Repo                                                                     | Libraries                                         |
@@ -44,7 +44,7 @@
 |Java, c | **Languages**
 |MongoDB, MySQL | **DBMS**
 |Git, GitHub, VS Code | **Tools**
-|Ubuntu, Windows, Mardown | **Extras**
+|Ubuntu, Windows, Markdown | **Extras**
 
 
 </details>
