@@ -36,11 +36,11 @@
 
 </details>
 
-<details open>
+details open>
 <summary><h3>🚀 Skills</h3></summary>
 
-|                                                                                                                                                                                                                                                                                                                                                                            Tech Stacks | Domain        | 
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------ | :-: | ---------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tech Stack                   | Domain                                                                     | 
+| ------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------- |
 |                                                       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px">| **Languages** |     |      **Web Framework** |  |
 |                                        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" width="40px"> | **Databases** |
 |  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px"><img src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" width="40px"> | **Tools**     |  
