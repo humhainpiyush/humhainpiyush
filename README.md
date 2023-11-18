@@ -31,7 +31,7 @@
 
 | Project Name                       | Repo                                                                                         | Language | Libraries                          |
 | ---------------------------------- | -------------------------------------------------------------------------------------------- | -------- | ----------------------------- |
-| **Salary Prediction** | [salary-prediction](https://github.com/humhainpiyush/Salary-Prediction.git)       | python      | `pandas, numpy`                |
+| **Salary Prediction** | [salary-prediction](https://github.com/humhainpiyush/Salary-Prediction.git)       | Python      | `pandas, numpy`                |
 | **Online Attendance System**            | [Attendance-taking-system](https://github.com/humhainpiyush/Attendance-taking-system.git)                     | HTML, CSS, JAVA   | `sql, servlet`         |
 
 </details>
@@ -41,7 +41,7 @@
 
 | Tech Stack                   | Domain                    |
 | ---------------------------- | :-----------------------:  |
-|Java, c | **Languages**
+|Java, C | **Languages**
 |MongoDB, MySQL | **DBMS**
 |Git, GitHub, VS Code | **Tools**
 |Ubuntu, Windows, Markdown | **Extras**
