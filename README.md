@@ -31,7 +31,7 @@
 
 | Project Name                       | Repo                                                                                         | Language | Libraries                          |
 | ---------------------------------- | -------------------------------------------------------------------------------------------- | -------- | ----------------------------- |
-| **Salary Prediction** | [salary-prediction](https://github.com/arv-anshul/Distraction-Free-YT-Stylus)       | python      | `pandas, numpy`                |
+| **Salary Prediction** | [salary-prediction](https://github.com/humhainpiyush/Salary-Prediction.git)       | python      | `pandas, numpy`                |
 | **Online Attendance System**            | [Attendance-taking-system](https://github.com/humhainpiyush/Attendance-taking-system.git)                     | HTML, CSS, JAVA   | `sql, servlet`         |
 
 </details>
