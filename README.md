@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=humhainpiyush&color=yellow&style=plastic&label=प्रोफ़ाइल+के+दृश्य)
+![](https://komarev.com/ghpvc/?username=humhainpiyush&color=yellow&style=plastic)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=363537&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Piyush+and+Welcome+to+my+Profile!" align="middle" alt="Hey, I'm Piyush and Welcome to my Profile! animated typed out" width="100%"/>
 
