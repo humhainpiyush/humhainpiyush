@@ -24,6 +24,7 @@
 | Project Name                    | Repo                                                                     | Libraries                                         |
 | ------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------- |
 | **Guesser Game**               | [Guesser-Game](https://github.com/humhainpiyush/Guesser-Game.git)             |     |
+| **Inventory Management System**               | [Inventory-Management-System](https://github.com/humhainpiyush/Inventory-Management-System.git)             |     |
 
 </details>
 
