@@ -43,10 +43,9 @@
 
 | Tech Stack                   | Domain                    |
 | ---------------------------- | :-----------------------:  |
-|<a href="https://www.github.com/humhainpiyush" target="_blank" rel="noreferrer"><img alt="Github" width="35px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"></a> &nbsp; 
-<a href = "https://www.github.com/humhainpiyush" target= "_blank" rel="noreferrer"><img alt="C Language" width = "35px" src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"></a> | **Languages**
-|MongoDB, MySQL | **DBMS**
-|Git, GitHub, VS Code | **Tools**
+|<a href="https://www.github.com/humhainpiyush" target="_blank" rel="noreferrer"><img alt="Java" width="35px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"></a> <a href = "https://www.github.com/humhainpiyush" target= "_blank" rel="noreferrer"><img alt="C Language" width = "35px" src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"></a> | **Languages**
+|<a href = "https://www.github.com/humhainpiyush" target= "_blank" rel="noreferrer"><img alt="MongoDB" width = "35px" src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg"></a> <a href = "https://www.github.com/humhainpiyush" target= "_blank" rel="noreferrer"><img alt="MySQL" width = "35px" src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mysql/mysql-original.svg"></a> | **DBMS**
+|<a href = "https://www.github.com/humhainpiyush" target= "_blank" rel="noreferrer"><img alt="Git" width = "35px" src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg"></a><a href = "https://www.github.com/humhainpiyush" target= "_blank" rel="noreferrer"><img alt="GitHub" width = "35px" src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg"></a><a href = "https://www.github.com/humhainpiyush" target= "_blank" rel="noreferrer"><img alt="VS Code" width = "35px" src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"></a> | **Tools**
 |Ubuntu, Windows, Markdown | **Extras**
 
 
