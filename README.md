@@ -43,7 +43,7 @@
 
 | Tech Stack                   | Domain                    |
 | ---------------------------- | :-----------------------:  |
-|Java, C | **Languages**
+| <a href="mailto:piyushranjan2807@gmail.com" target="_blank"><img alt="Gmail" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg">Java, C | **Languages**
 |MongoDB, MySQL | **DBMS**
 |Git, GitHub, VS Code | **Tools**
 |Ubuntu, Windows, Markdown | **Extras**
