@@ -43,7 +43,7 @@
 
 | Tech Stack                   | Domain                    |
 | ---------------------------- | :-----------------------:  |
-|<a href="https://www.github.com/humhainpiyush" target="_blank" rel="noreferrer"><img alt="Github" width="35px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg">, C | **Languages**
+|<a href="https://www.github.com/humhainpiyush" target="_blank" rel="noreferrer"><img alt="Github" width="35px" src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg"></a> &nbsp <a href = "https://www.github.com/humhainpiyush" target "_blank" rel="noreferrer"><img alt="C Language" width = "35px" src ="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg"></a> | **Languages**
 |MongoDB, MySQL | **DBMS**
 |Git, GitHub, VS Code | **Tools**
 |Ubuntu, Windows, Markdown | **Extras**
