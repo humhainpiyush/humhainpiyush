@@ -39,7 +39,7 @@
 </details>
 
 <details open>
-<summary><h3>☕️ Language Learning Repository</h3></summary>
+<summary><h3>🧑‍💻 Language Learning Repository</h3></summary>
 
 | Language Name                    | Repo                                                                     |
 | ------------------------------- | ------------------------------------------------------------------------ | 
