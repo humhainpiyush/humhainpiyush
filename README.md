@@ -39,6 +39,16 @@
 </details>
 
 <details open>
+<summary><h3>☕️ Language Learning Repository</h3></summary>
+
+| Language Name                    | Repo                                                                     |
+| ------------------------------- | ------------------------------------------------------------------------ | 
+| **C**               | [C-Language](https://github.com/humhainpiyush/C-Language.git)             |
+| **Java**               | [Java]()             |
+
+</details>
+
+<details open>
 <summary><h3>🚀 Skills</h3></summary>
 
 | Tech Stack                   | Domain                    | Domain                   | Tech Stack                    |
