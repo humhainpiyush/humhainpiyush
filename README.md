@@ -44,7 +44,7 @@
 | Language Name                    | Repo                                                                     |
 | ------------------------------- | ------------------------------------------------------------------------ | 
 | **C**               | [C-Language](https://github.com/humhainpiyush/C-Language.git)             |
-| **Java**               | [Java]()             |
+| **Java**               | [Java](https://github.com/humhainpiyush/Core-Java.git)             |
 
 </details>
 
