@@ -44,6 +44,7 @@
 | ------------------------------- | ------------------------------------------------------------------------ | 
 | **C**               | [C-Language](https://github.com/humhainpiyush/C-Language.git)             |
 | **Java**               | [Java](https://github.com/humhainpiyush/Core-Java.git)             |
+| **Python**               | [Python](https://github.com/humhainpiyush/Core-Java.git)             |
 
 </details>
 
