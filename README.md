@@ -4,8 +4,7 @@
 
 <img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- I am currently pursuing **B.Tech in Information Technology** from Siliguri Institute of Technology, Darjeeling, India .
-- My career goal is to **become a efficient Java Developer** who integrate his skills to create a working software for solving the real world problems.
+- My career goal is to To excel as a proficient **Full Stack Java Developer** by mastering cutting-edge technologies, building scalable and efficient applications, and contributing to innovative projects that enhance user experience. Ultimately, aspire to lead development teams and architect enterprise-level solutions.
 - I have a strong command of Java, with proficiency in essential programming **concepts like Object-Oriented Programming (OOP), System Design**.
 - Throughout my academic journey, **I have completed multiple projects**. Checkout my best work [here](https://github.com/humhainpiyush?tab=repositories).
 
