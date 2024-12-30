@@ -20,11 +20,17 @@
 <details open>
 <summary><h3>☕️ Java Projects</h3></summary>
 
-| Project Name                    | Repo                                                                     | Technical Stacks                                        |
+| Project Name                    | Repo                                                                     | Libraries                                       |
 | ------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------- |
 | **Guesser Game**               | [Guesser-Game](https://github.com/humhainpiyush/Guesser-Game.git)             |     |
 | **Inventory Management System**               | [Inventory-Management-System](https://github.com/humhainpiyush/Inventory-Management-System.git)             |     |
-| **Movie Watchlist Application**               | [Movie-Watchlist-App](https://github.com/humhainpiyush/Movie-Watchlist-App.git)             |  `Spring Boot, H2 database, HTML-CSS-Thymeleaf`   |
+
+<details open>
+<summary><h3>☕📌 Full Stack Projects</h3></summary>
+
+| Project Name                    | Repo                                                                     | Technical Stacks                                        |
+| ------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------- |
+| **Movie Watchlist Application**               | [Movie-Watchlist-App](https://github.com/humhainpiyush/Movie-Watchlist-App.git)             |  `Spring Boot, H2 database, HTML-CSS-Thymeleaf, Maven`   |
 
 </details>
 
