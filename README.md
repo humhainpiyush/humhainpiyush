@@ -27,6 +27,8 @@
 | **Guesser Game**               | [Guesser-Game](https://github.com/humhainpiyush/Guesser-Game.git)             |
 | **Inventory Management System**               | [Inventory-Management-System](https://github.com/humhainpiyush/Inventory-Management-System.git)             |
 
+> console based projects
+
 <details open>
 <summary><h3>☕📌 Full Stack Projects</h3></summary>
 
