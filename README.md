@@ -9,6 +9,7 @@
 - 📚 Actively learning and implementing Spring Boot, Thymeleaf, and database management systems to enhance development expertise.
 - 🌟 Check out some of my featured projects [here](https://github.com/humhainpiyush?tab=repositories), including backend and full-stack applications.
 
+<br>
 <h3 align="center" style="font-weight: bold;">🤝 Connect with Me 🤝</h3>
 
 <p align="center">
