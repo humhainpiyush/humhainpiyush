@@ -21,8 +21,10 @@
 <details open>
 <summary><h3>☕️ Java Projects</h3></summary>
 
-| Project Name                    | Repo                                                                     | Libraries                                       |
-| ------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------- |
+> console based projects.
+
+| Project Name                    | Repo                                                                     |
+| ------------------------------- | ------------------------------------------------------------------------ |
 | **Guesser Game**               | [Guesser-Game](https://github.com/humhainpiyush/Guesser-Game.git)             |     |
 | **Inventory Management System**               | [Inventory-Management-System](https://github.com/humhainpiyush/Inventory-Management-System.git)             |     |
 
