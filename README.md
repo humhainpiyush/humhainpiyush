@@ -71,7 +71,13 @@
 
 
 </details>
-
+<details open>
+  <summary><h3>💻 Leetcode Stats</h3></summary>
+  <p align="center">
+  
+  <img  align=top flex-grow=1 src="https://leetcard.jacoblin.cool/humhainpiyush?theme=dark&font=Nunito&ext=heatmap" />  
+</p>
+</details>
 <details>
   <summary><h3>📊 Github Stats</h3></summary>
 
