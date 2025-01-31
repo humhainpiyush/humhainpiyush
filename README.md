@@ -35,6 +35,7 @@
 | Project Name                    | Repo                                                                     | Technical Stacks                                        |
 | ------------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------- |
 | **Movie Watchlist Application**               | [Movie-Watchlist-App](https://github.com/humhainpiyush/Movie-Watchlist-App.git)             |  `Spring Boot, H2 database, HTML-CSS-Thymeleaf, Maven`   |
+| **Student Management System**               | [Student-Management-System](https://github.com/humhainpiyush/Student-Management-System.git)             |  `Spring Boot, H2 database, HTML-Bootstrap-Thymeleaf, Maven`   |
 
 </details>
 
