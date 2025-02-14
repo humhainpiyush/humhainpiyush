@@ -51,7 +51,7 @@
 </details>
 
 <details open>
-<summary><h3>🧑‍💻 Language Learning Repository</h3></summary>
+<summary><h3>🧑‍💻 Tutorials Repository</h3></summary>
 
 | Language Name                    | Repo                                                                     |
 | ------------------------------- | ------------------------------------------------------------------------ | 
