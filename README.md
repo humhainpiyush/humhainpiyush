@@ -53,12 +53,11 @@
 <details open>
 <summary><h3>🧑‍💻 Tutorials Repository</h3></summary>
 
-| Language Name                    | Repo                                                                     |
-| ------------------------------- | ------------------------------------------------------------------------ | 
-| **C**               | [C-Language](https://github.com/humhainpiyush/C-Language.git)             |
-| **Java**               | [Java](https://github.com/humhainpiyush/Core-Java.git)             |
-| **DSA with Java**               | [DSA-with-Java](https://github.com/humhainpiyush/DSA-with-Java.git)             |
-| **Python**               | [Python](https://github.com/humhainpiyush/Python.git)             |
+| Language Name     | Repo                                                           | Extends                                                            |
+| ----------------- | -------------------------------------------------------------- | -------------------------------------------------------------------|
+| **C**             | [C-Language](https://github.com/humhainpiyush/C-Language.git)  |                                                                    |
+| **Java**          | [Java](https://github.com/humhainpiyush/Core-Java.git)         | [DSA-with-Java](https://github.com/humhainpiyush/DSA-with-Java.git)|
+| **Python**        | [Python](https://github.com/humhainpiyush/Python.git)          |                                                                    |
 
 </details>
 
