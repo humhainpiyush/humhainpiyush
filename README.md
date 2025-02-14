@@ -57,6 +57,7 @@
 | ------------------------------- | ------------------------------------------------------------------------ | 
 | **C**               | [C-Language](https://github.com/humhainpiyush/C-Language.git)             |
 | **Java**               | [Java](https://github.com/humhainpiyush/Core-Java.git)             |
+| **DSA with Java**               | [DSA-with-Java](https://github.com/humhainpiyush/DSA-with-Java.git)             |
 | **Python**               | [Python](https://github.com/humhainpiyush/Python.git)             |
 
 </details>
